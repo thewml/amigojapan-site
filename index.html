@@ -64,6 +64,10 @@ function load() {
 	
 	
     document.getElementById("maincol_container").innerHTML = main;
+	document.getElementById("mylink").onclick = function() {
+		document.getElementById('maincol_container').innerHTML = padow_family;
+		return false;
+	}
 	
 }
 window.addEventListener("pageshow", function(evt){
@@ -87,7 +91,7 @@ window.addEventListener("pageshow", function(evt){
             </ul>			
         	<h2>Life stories</h2>
             <ul>
-	            <li><a href="<a onclick='document.getElementById('maincol_container').innerHTML = padow_family;" href="#">Story of the Padow family</a></li>
+	            <li><a href="<a id="mylink" href="#">Story of the Padow family</a></li>
                 <BR><li><a href="#">The reason why I came to Japan</a></li>
 	            <BR><li><a href="#">The story of how I met my Japanese wife</a></li>
                 <BR><li><a href="#">The method how I studied Japanese</a></li>
