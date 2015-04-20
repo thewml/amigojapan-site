@@ -66,7 +66,9 @@ function load() {
     document.getElementById("maincol_container").innerHTML = main;
 	
 }
-window.addEventListener("pageshow", load(), false);
+window.addEventListener("pageshow", function(evt){
+           load();
+       }, false);
 </script>
 
 <div id="container">
