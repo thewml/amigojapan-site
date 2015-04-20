@@ -122,9 +122,10 @@ function load() {
 	
 	
 	
-	
+	document.getElementById("maincol_container").innerHTML = "";
     document.getElementById("maincol_container").innerHTML = main;
 	document.getElementById("mylink").onclick = function() {
+		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML = padow_family;
 		return false;
 	}
