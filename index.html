@@ -57,6 +57,12 @@
 </div>
 </body>
 <script>
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
 var main="";
 var padow_family="";
 function load() {
@@ -85,7 +91,7 @@ function load() {
 	main+='			<BR><a href=http://sandbox.yoyogames.com/games/79888-tom-burger-2-english>tom burger 2</a> a hamburger shop simulation based on the time I worked for dom dom hamburger'
 	main+='			<BR><a href=http://sandbox.yoyogames.com/games/72683-pachidomi>pachidomi</a> a game that mixes pachinko with a platformer'
 	main+='			<BR>'
-	main+='			<BR> Contact me at usmpado@gmail.com'
+	main+='			<BR> Usmar A Padow (amigojapan), Contact me at usmpado@gmail.com'
 	main+='			<BR><a href="http://www.bryantsmith.com">web template by web design florida</a>'
 	main+='		</div>'
 
@@ -120,10 +126,16 @@ function load() {
 	padow_family+='		<BR><BR>Usmar A Padow (amigojapan) usmpadow@gmail.com - 2015'
 	
 	
+	var q = getParameterByName("q");
+	if(q==NULL){
+		document.getElementById("maincol_container").innerHTML = "";
+	    document.getElementById("maincol_container").innerHTML = main;
+	}
+	if(q=="padow"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML = padow_family;
+	}
 	
-	
-	document.getElementById("maincol_container").innerHTML = "";
-    document.getElementById("maincol_container").innerHTML = main;
 	document.getElementById("mylink").onclick = function() {
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML = padow_family;
