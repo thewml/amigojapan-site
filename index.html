@@ -16,9 +16,10 @@
     <div id="main">
     <div id="leftcol_container">
     	<div class="leftcol">
-        	<h2>Main</h2>
+        	<h2>Programming</h2>
         	<ul>
-            	<li><a href="http://amigojapan.github.io">Homepage</a></li>
+            	<li><a href="http://amigojapan.github.io">My projects</a></li>
+				<BR><li><a href="http://amigojapan.github.io/?q=The_pros_and_cons_of_quick_and_dirty_programming">Two kinds of programmers</a></li>
             </ul>			
         	<h2>Life stories</h2>
             <ul>
@@ -65,6 +66,7 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 var main="";
+var quit_and_dirty="";
 var padow_family="";
 var reason_came_to_japan="";
 var how_met_wife="";
@@ -102,6 +104,18 @@ function load() {
 	main+='			<BR> Usmar A Padow (amigojapan), Contact me at usmpado@gmail.com'
 	main+='			<BR><a href="http://www.bryantsmith.com">web template by web design florida</a>'
 	main+='		</div>'
+
+
+	quit_and_dirty+=' <div class="maincol">'    
+	quit_and_dirty+='        	<h2>Two kinds of programmers, the pros and cons of quick and dirty programming.</h2>'     
+	quit_and_dirty+='        	I think there are 2 kinds of programmers,  many , maybe most, are of the kind that when compared to a painter, like to sit down with a  ruler and a pencil and slowly draw a picture, making realistic pictures....  and then there are programmers like me,  that when compared with a painter worry more about the end product than how to do the thing... so they may get out a bucket of paint, and slap some on the walls, have dirty newspapers on the floor everywhere(and they end up with some kind of abstract Picasso like painting).. but I think this kind of programming is better for inventive people... probably not for like business or medical applications.....  
+
+When you are working on something new, it is better not to worry about how to do it, and just do it
+I would argue the most optimal would be to apply the latter for prototypes and the former for the actual product
+I am better at prototypes. I am not really cut out for final products....    I don\'t think it is the same kind of people that do these things....    but often I run into people that say I should be like the painter with the ruler and paint a realistic painting, when I am really aiming for a piccaso like abstract painting
+
+I also tend to want to work on new stuff , that hopefully has never been made before... I find boilerplate programming, like making web apps dreadfully boring'
+	quit_and_dirty+='		</div>'
 
 
 
@@ -311,6 +325,10 @@ function load() {
 	if(q==""){
 		document.getElementById("maincol_container").innerHTML = "";
 	    document.getElementById("maincol_container").innerHTML = main;
+	}
+	if(q=="The_pros_and_cons_of_quick_and_dirty_programming"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML = quit_and_dirty;
 	}
 	if(q=="Padow_family_story"){
 		document.getElementById("maincol_container").innerHTML = "";
