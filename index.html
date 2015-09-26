@@ -43,6 +43,7 @@
         	<ul>
 				<li><a href="http://amigojapan.github.io/?q=Ideas_for_inventions">Ideas for inventions</a></li>
             	<BR><li><a href="http://amigojapan.github.io/?q=Compilation_of_multiplication_tricks_for_people_with_bad_memory">Multiplication tricks for people with bad memory</a></li>
+				<BR><li><a　href="http://amigojapan.github.io/?q=amigojapan_Usmar_padow's_identity_prover">Cryptographic identity proof</a></li>
             </ul>
 
       </div>
@@ -75,6 +76,7 @@ var classics="";
 var time_hypothesis="";
 var multiplication_tricks="";
 var ideas="";
+var crypto_ids="";
 function load() {
 	main+=' <div class="maincol">'         
 	main+='        	<h2>Introduction</h2>'
@@ -321,6 +323,15 @@ function load() {
 	ideas+='		<BR><BR>'
 	ideas+='		<BR>platformed where you build the levels as you play,you can build and destroy platforms. make  platforms that spawn enemies. this should be a multiplayer game'
 	
+	crypto_ids+='<div class="maincol">' 
+	crypto_ids+='		<h2>Ideas for inventions</h2>'
+	crypto_ids+='		<BR><BR>Here is a list of cryptographical IDs that I may need to use some day to prove that I am who I am.'
+
+	crypto_ids+='		<BR><BR>To determine if I am who I am, you need to run a text that I will provide you thru a sha512 hasher like this <a href=http://www.miniwebtool.com/sha512-hash-generator/>online sha512 hash Generator</a> if it matches any of my IDs, that means it is me, ofcourse unless my clear text file has been compromised, let\'s hope that is not he case :). <BR><BR>Note: mostly I am doing this for fun, but you never know when it may be useful, I recommend everyone does this...<BR>Also I cant take credit for this, I am imitating a friend who did this...<BR><BR>'
+	crypto_ids+='		<BR>ID0 is 8fcb1c6f31952ee2c72c9f5447c533d45ca2b4bbcc9ef415c576123fa84affee7531c01143b9118cf41887bdd558e51658492fa6372fcd17c6efcd5d354c5f61'
+	crypto_ids+='		<BR>ID1 is 361292339a04a76585f3eea53a2ae54cf1a9831cf169c3d3d8b1f8b08f291d722f007ab01df57fb6a5fe7c3b0357a1fafa0c4ba7cef1c17fa845fca56189c124'
+	crypto_ids+='		<BR>ID0 is 32c913e7654b4cb1d5daa15dcbf4c0238360dd2906d6f39f2cd99c6a4142daf25a00cab1f9283633993a8ee744f9992b6de322bc760fe9e05e7ca6feec53826b'
+	
 	var q = getParameterByName("q");
 	if(q==""){
 		document.getElementById("maincol_container").innerHTML = "";
@@ -361,6 +372,10 @@ function load() {
 	if(q=="Ideas_for_inventions"){
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML =ideas;
+	}	
+	if(q=="amigojapan_Usmar_padow's_identity_prover"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML =crypto_ids;
 	}	
 	/*
 	document.getElementById("mylink").onclick = function() {
