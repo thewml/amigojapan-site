@@ -73,7 +73,7 @@ margin:0px auto 0px auto;
 
 #main
 {
-	display:block;
+	display:block;left
 background-color:#FFFFFF;
 padding-top:7px;
 padding-bottom:7px;
@@ -82,7 +82,7 @@ padding-bottom:7px;
 .leftcol h2
 {
 	text-align:left;
-	margin-left:7px;
+	margin-left:12px;
 	font-size:21px;
 	color: #1D5174;
 	margin-bottom:6px;
@@ -110,27 +110,17 @@ clear:both;
 }
 
 
-#leftcol_container #maincol_container
-{
-	float:left;
-	margin-left:7px;
-}
-#maincol_container
-{
-        padding: 12px;
-        float:left;
-        margin-left:7px;
-}
-
 
 #leftcol_container
 {
 	width:auto;
+	float:left;
 }
 #maincol_container
 {
-width:auto;	
-font-size:12px;
+	display: block;
+	width: auto;
+	float: right; 
 	
 }
 
@@ -159,13 +149,14 @@ margin-bottom:13px;
 
 .leftcol, .maincol
 {
-	clear:both;	
+clear:both;	
+padding-left:5px;
+padding-right:5px;	
+padding-bottom:5px;	
+padding-top:12px;
 }
 
-.maincol
-{
-	float:right;
-}
+
 
 .leftcol
 {
@@ -192,10 +183,11 @@ a:hover
 
 .leftcol ul
 {
+padding-left:12px;
+padding-bottom:7px;
 list-style:none;
 font-size:15px;
 font-weight:bold;
-margin-bottom: 7px;
 }
 
 
@@ -208,6 +200,7 @@ background-repeat:no-repeat;
 background-color:#EEF5FB;
 width:650px;
 font-size:15px;
+
 }
 
 
