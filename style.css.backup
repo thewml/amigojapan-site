@@ -110,16 +110,10 @@ clear:both;
 }
 
 
-#leftcol_container #maincol_container
+#leftcol_container, #maincol_container
 {
-	float:left;
-	margin-left:7px;
-}
-#maincol_container
-{
-        padding: 12px;
-        float:left;
-        margin-left:7px;
+float:left;
+margin-left:7px;
 }
 
 
@@ -159,13 +153,14 @@ margin-bottom:13px;
 
 .leftcol, .maincol
 {
-	clear:both;	
+clear:both;	
+padding-left:5px;
+padding-right:5px;	
+padding-bottom:5px;	
+padding-top:12px;
 }
 
-.maincol
-{
-	float:right;
-}
+
 
 .leftcol
 {
@@ -195,7 +190,6 @@ a:hover
 list-style:none;
 font-size:15px;
 font-weight:bold;
-margin-bottom: 7px;
 }
 
 
