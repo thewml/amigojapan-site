@@ -42,7 +42,8 @@
         	<h2>Other</h2>
         	<ul>
 				<li><a href="http://amigojapan.github.io/?q=Ideas_for_inventions">Ideas for inventions</a></li>
-            	<BR><li><a href="http://amigojapan.github.io/?q=Compilation_of_multiplication_tricks_for_people_with_bad_memory">Multiplication tricks for people with bad memory</a></li>
+            			<BR><li><a href="http://amigojapan.github.io/?q=Self_quotes">Self quotes</a></li>
+            			<BR><li><a href="http://amigojapan.github.io/?q=Compilation_of_multiplication_tricks_for_people_with_bad_memory">Multiplication tricks for people with bad memory</a></li>
 				<BR><li><a href="http://amigojapan.github.io/?q=amigojapan_Usmar_padows_identity_prover">Cryptographic identity proof</a></li>
             </ul>
 
@@ -77,6 +78,7 @@ var time_hypothesis="";
 var multiplication_tricks="";
 var ideas="";
 var crypto_ids="";
+var self_quotes="";
 function load() {
 	main+=' <div class="maincol">'         
 	main+='        	<h2>Introduction</h2>'
@@ -333,7 +335,20 @@ function load() {
 	crypto_ids+='		<BR>ID0 is fe3633dce83758a9a750b93cb73a761e751d626e9326188c519fdead7dd1f45bd47615560e7fda1aaa75fe96f1cc9a452fd6d2c6128830114c8c581d5e98ffdf'
 	crypto_ids+='		<BR>ID1 is 0eb85db5a851a08d2bfb79b9b89654e5f7e4da0589994cc8b22c174ad8ce081cf6f58d1fd6bca28b51221163ca3fb59b016bbee130e8914fa44a2831f30a15ee'
 	crypto_ids+='		<BR>ID2 is 39173e03ec4d62113f202817f0666a72f6318158f4f6d89b36d9e7572ac91056257665e28e5783dbca2b57872e27c4fd25c3a7a1c78fea16c5f692abe360d1c5'
-	
+
+	self_quotes+='<div class="maincol">' 
+	self_quotes+='		<h2>Self quotes</h2>'
+	self_quotes+='		<BR><BR>Here is a list of self quotes I have kept stored and am ready to share with the world!.'
+
+	self_quotes+='		<BR><BR>'
+	self_quotes+='		<BR>"You dont get extra points by being a fanatic" -- amigojapan'
+	self_quotes+='		<BR>"Even the most irrational people usually think they are logical thinkers" -- amigojapan'
+	self_quotes+='		<BR>"being honest is a good rule of thumb.   But let\'s say you are an undercover cop trying to catch a murderer.  Revealing your identity cause someoneasks would be the wrong thing to do" -- amigojapan'
+	self_quotes+='		<BR>"let the people that want to live live.  Let the people who want to die die (support Euthinasia legalization)	
+" -- amigojapan'
+	self_quotes+='		<BR>"don\'t think, then you are thinking like a windows user :)" -- amigojapan'
+	self_quotes+='		<BR>"I often hear the "it is better in [insert newest version of windows]" I have grown untrustworthy of this claim." -- amigojapan'
+
 	var q = getParameterByName("q");
 	if(q==""){
 		document.getElementById("maincol_container").innerHTML = "";
@@ -378,6 +393,10 @@ function load() {
 	if(q=="amigojapan_Usmar_padows_identity_prover"){
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML =crypto_ids;
+	}	
+	if(q=="Self_quotes"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML =self_quotes;
 	}	
 	/*
 	document.getElementById("mylink").onclick = function() {
