@@ -45,6 +45,7 @@
             			<BR><li><a href="http://amigojapan.github.io/?q=Self_quotes">Self quotes</a></li>
             			<BR><li><a href="http://amigojapan.github.io/?q=Compilation_of_multiplication_tricks_for_people_with_bad_memory">Multiplication tricks for people with bad memory</a></li>
 				<BR><li><a href="http://amigojapan.github.io/?q=amigojapan_Usmar_padows_identity_prover">Cryptographic identity proof</a></li>
+				<BR><li><a href="http://amigojapan.github.io/?q=First_freenode_anime_channel_Tenkaichibudoukai">First Tenkaichibudoukai 2016</a></li>
             </ul>
 
       </div>
@@ -79,6 +80,7 @@ var multiplication_tricks="";
 var ideas="";
 var crypto_ids="";
 var self_quotes="";
+var first_tenkaichibudoukai="";
 function load() {
 	main+=' <div class="maincol">'         
 	main+='        	<h2>Introduction</h2>'
@@ -361,6 +363,21 @@ function load() {
 	self_quotes+='		<BR><BR><BR>"Don\'t think, then you are thinking like a Windows user :)" -- amigojapan'
 	self_quotes+='		<BR><BR><BR>"I often hear the "it is better in [insert newest version of Windows]" I have grown untrustworthy of this claim." -- amigojapan'
 
+	first_tenkaichibudoukai+='<div class="maincol">' 
+	first_tenkaichibudoukai+='		<center><img src=tenkaichibudoukai.jpg></center>'
+	first_tenkaichibudoukai+='		<h2>First freenode IRC #anime tenkaichibudoukai on Sep. 25 23:00JST  </h2>'
+	
+	first_tenkaichibudoukai+='		<BR><BR>'
+	first_tenkaichibudoukai+='		<BR><BR>Hey guys, I bare good news :)'
+	first_tenkaichibudoukai+='		<BR><BR>Someone just gave me a full collection of Dragon Ball figures!'
+	first_tenkaichibudoukai+='		<BR><BR><center><img src=figures.jpg></center>'
+	first_tenkaichibudoukai+='		<BR><BR>First we want  people that need the prize to join...'
+	first_tenkaichibudoukai+='		<BR><BR>People that want to participate in the contest send email address to usmpadow@gmail.com be sure to send email saying "I want to join the tenkaichibudoukai, <your irc nick>" by tenkaichibudoukai on Sep.. 25 22:00JST, no entries will be accepted after that'
+	first_tenkaichibudoukai+='		<BR><BR>I will give this and pay for the shipping of the package(no guaranties, but I give my word)'
+	first_tenkaichibudoukai+='		<BR><BR><h3>the competition will be a tenkaichibudoukai of the #donger game on freenode IRC</h3>'
+	first_tenkaichibudoukai+='		<BR><BR>Help promote the competition: "tenkaichibudoukai on Sep.. 25 23:00JST see this for details, '
+	first_tenkaichibudoukai+='		<BR><BR>Also would be nice if people could contribute other goods to run future tenkaichibudoukais, if you have something  you want to contribute to a future tenkaichibudoukai, mention it in your email. You will be responsible for sending it to the winner*(this is not a money making tournament, it is just for fun)'
+
 	var q = getParameterByName("q");
 	if(q==""){
 		document.getElementById("maincol_container").innerHTML = "";
@@ -410,6 +427,11 @@ function load() {
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML =self_quotes;
 	}	
+	if(q=="First_freenode_anime_channel_Tenkaichibudoukai"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML =first_tenkaichibudoukai;
+	}	
+
 	/*
 	document.getElementById("mylink").onclick = function() {
 		document.getElementById("maincol_container").innerHTML = "";
