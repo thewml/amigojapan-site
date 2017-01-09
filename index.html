@@ -25,10 +25,11 @@
             <ul>
 	            <li><a href="http://amigojapan.github.io/?q=Padow_family_story">Story of the Padow family</a></li>
                 <BR><li><a href="http://amigojapan.github.io/?q=Reason_why_I_came_to_Japan">The reason why I came to Japan</a></li>
-	            <BR><li><a href="http://amigojapan.github.io/?q=Story_of_how_I_met_my_wife">The story of how I met my Japanese wife</a></li>
+	        <BR><li><a href="http://amigojapan.github.io/?q=Story_of_how_I_met_my_wife">The story of how I met my Japanese wife</a></li>
                 <BR><li><a href="http://amigojapan.github.io/?q=Method_I_used_to_study_Japanese">The method I used to study Japanese</a></li>
-	            <BR><li><a href="http://amigojapan.github.io/?q=Classic_funny_moments_in_programming_channel_on_freenode">Classic funny moments in ##programming on freenode</a></li>
-            </ul>			
+	        <BR><li><a href="http://amigojapan.github.io/?q=Classic_funny_moments_in_programming_channel_on_freenode">Classic funny moments in ##programming on freenode</a></li>
+	        <BR><li><a href="http://amigojapan.github.io/?q=My_unusual_schooling">My unusual schooling</a></li>
+	    </ul>			
         	<h2>Philosophy articles</h2>
         	<ul>
             	<li><a href="http://amigojapan.github.io/?q=Hypothesis_of_4D_time">Hypothesis on 4D time </a></li>
@@ -81,6 +82,7 @@ var ideas="";
 var crypto_ids="";
 var self_quotes="";
 var first_tenkaichibudoukai="";
+var schooling_story="";
 function load() {
 	main+=' <div class="maincol">'         
 	main+='        	<h2>Introduction</h2>'
@@ -371,8 +373,7 @@ function load() {
 
 	first_tenkaichibudoukai+='<div class="maincol">' 
 	first_tenkaichibudoukai+='		<center><img src=tenkaichibudoukai.jpg></center>'
-	first_tenkaichibudoukai+='		<h2>First freenode IRC #anime tenkaichibudoukai on Sep. 25 23:00JST  </h2>'
-	
+	first_tenkaichibudoukai+='		<h2>First freenode IRC #anime tenkaichibudoukai on Sep. 25 23:00JST  </h2>'	
 	first_tenkaichibudoukai+='		<BR><BR>'
 	first_tenkaichibudoukai+='		<BR><BR>Hey guys, I bare good news :)'
 	first_tenkaichibudoukai+='		<BR><BR>Someone just gave me a full collection of Dragon Ball figures!'
@@ -385,6 +386,19 @@ function load() {
 	first_tenkaichibudoukai+='		<BR><BR><h3>the competition will be a tenkaichibudoukai of the #donger game on freenode IRC</h3> <BR>It is a really simple battle game that anyone can easily just participate without much experience. Of course you can practice it before in #donger on freenode. We will first pair up all the competitors to hold the first round, then we will repeat the process of pairing up and competing until there is a clear winner.'
 	first_tenkaichibudoukai+='		<BR><BR>Please help promote the competition!'
 	first_tenkaichibudoukai+='		<BR><BR>Also would be nice if people could contribute other goods to run future tenkaichibudoukais, if you have something  you want to contribute to a future tenkaichibudoukai, mention it in your email. You will be responsible for sending it to the winner*(this is not a money making tournament, it is just for fun)'
+
+	
+
+	schooling_story+='<div class="maincol">' 
+	schooling_story+='		<h2>My unusual schooling</h2>'	
+	schooling_story+='		<BR><BR>'
+	schooling_story+='		<BR><BR>My schooling was really strange.'
+	schooling_story+='		<BR><BR>While I was in elementary school I was basically the kid that always looks out the window, and I could not concentrate on classes. I think I could not relate what they were teaching with anything I wanted to do back then.'
+	schooling_story+='		<BR><BR>I basically did not go to normal school from 12 to 19, meantime I went to a computer programming school for adults.'
+	schooling_story+='		<BR><BR>That school only allowed people 18 and up to join, but my mom convinced them to give me a 1 month chance and if I could not keep up I would quit. but I kept up till the end and achieved perfect grades.'
+	schooling_story+='		<BR><BR> Then at 19 I got a GED and went to college at <a href="http://www.neit.edu/“> New England Institute of Technology at West Palm Beach</a>   unfortunately the West Palm Beach branch does not exist anymore but the main branch does. there I got an AS in computer programming technology and graduated with a 4.0 GPA.'
+	schooling_story+='		<BR><BR>I am not bad at studying either, cause I have achieved besides learning programming, also learning other languages… I just need to be interested in what I study. Also I keep on studying new programming things even now...'
+	schooling_story+='		<BR><BR>I think regular schooling was not designed for people with a personality like mine.'
 
 	var q = getParameterByName("q");
 	if(q==""){
@@ -439,6 +453,11 @@ function load() {
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML =first_tenkaichibudoukai;
 	}	
+	if(q=="My_unusual_schooling"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML =schooling_story;
+	}	
+	
 
 	/*
 	document.getElementById("mylink").onclick = function() {
