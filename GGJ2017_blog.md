@@ -1,5 +1,7 @@
 ##Global Game Jam 2017 Super Smash Tokyo
 
+<center> <img src=http://amigojapan.github.io/images/ROGOidea_dot.png width=300 height=200> </center>
+
 We made a game at Global Game Jam 2017 called Super Smash Tokyo
 Using 3dpl as development tool. **Sadale** invited me to join GGJ while he was participating at the Hong Kong site. I invited Beljaxander to join me as a teammate, and I did not know if I could actually have my own team which I was going to lead… I did apply to be team leader on a kind of resume I filled out.  finally when we were approaching the site we met with peter which wanted to join a group that could speak English.   and we ended up being the only 3 foreigners at GGJ.
 
