@@ -1,198 +1,191 @@
-##Global Game Jam 2017 Super Smash Tokyo
+<h2 id="globalgamejam2017supersmashtokyo">Global Game Jam 2017 Super Smash Tokyo</h2>
 
-<center> <img src=http://amigojapan.github.io/images/ROGOidea_dot.png width=300 height=200> </center>
+<p><center> <img src=http://i.imgur.com/LSWU8EX.png width=300 height=200> </center></p>
 
-We made a game at Global Game Jam 2017 called Super Smash Tokyo
-Using 3dpl as development tool. **Sadale** invited me to join GGJ while he was participating at the Hong Kong site. I invited Beljaxander to join me as a teammate, and I did not know if I could actually have my own team which I was going to lead… I did apply to be team leader on a kind of resume I filled out.  finally when we were approaching the site we met with peter which wanted to join a group that could speak English.   and we ended up being the only 3 foreigners at GGJ.
+<p>We made a game at Global Game Jam 2017 called Super Smash Tokyo
+Using 3dpl as development tool. <strong>Sadale</strong> invited me to join GGJ while he was participating at the Hong Kong site. I invited Beljaxander to join me as a teammate, and I did not know if I could actually have my own team which I was going to lead… I did apply to be team leader on a kind of resume I filled out.  finally when we were approaching the site we met with peter which wanted to join a group that could speak English.   and we ended up being the only 3 foreigners at GGJ.</p>
 
+<p>important links:</p>
 
-important links:
+<p><a href="https://www.youtube.com/watch?v=rUQFhK8-6M4">game screencast</a></p>
 
-[game screencast](https://www.youtube.com/watch?v=rUQFhK8-6M4)
+<p><a href="https://imgur.com/gallery/81cWE">picture album</a></p>
 
-[picture album](https://imgur.com/gallery/81cWE)
+<p><a href="http://globalgamejam.org/2017/games/supersmashtokyo-%E3%80%80%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC">our game page</a></p>
 
-[our game page](http://globalgamejam.org/2017/games/supersmashtokyo-%E3%80%80%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC)
+<p><a href="https://www.youtube.com/channel/UColRSRxkyyDdq2qwSles5Bw">GGJ Tokyo University of Technology youtube channel, where the stuff was live streamed</a></p>
 
-[GGJ Tokyo University of Technology youtube channel, where the stuff was live streamed](https://www.youtube.com/channel/UColRSRxkyyDdq2qwSles5Bw)
+<p><a href="https://youtu.be/ynljZUmJv2U?t=5m31s">extra credits</a></p>
 
-[extra credits](https://youtu.be/ynljZUmJv2U?t=5m31s)
+<p><a href="https://sadale.net/45/global-game-jam-2017---em-wave-jammer-release-announcement-and-post-mortem">Sadale's blog post of his project in HK EM Wave Jammer</a></p>
 
-[Sadale's blog post of his project in HK EM Wave Jammer](https://sadale.net/45/global-game-jam-2017---em-wave-jammer-release-announcement-and-post-mortem)
+<h3 id="teammembers">Team members:</h3>
 
-###Team members:
+<p>Usmar A. Padow (amigojapan) team leader/programmer</p>
 
-Usmar A. Padow (amigojapan) team leader/programmer
+<p>Beljaxander programmer/sound</p>
 
-Beljaxander programmer/sound
+<p>Peter artist/concept/coding</p>
 
-Peter artist/concept/coding
+<p>Fujino Shingo artist</p>
 
-Fujino Shingo artist
+<p>Fuuna Nakano artist/concept</p>
 
-Fuuna Nakano artist/concept
+<p>Tayaka Asano programmer</p>
 
-Tayaka Asano programmer
+<p>Hidenori Tomaru programmer</p>
 
-Hidenori Tomaru programmer
+<h3 id="conversationwithsadaleandshirafunothatexplainsmostofwhathappenedatggj2017">Conversation with <strong>Sadale</strong> and <strong>shirafuno</strong> that explains most of what happened at GGJ2017</h3>
 
- 
- 
-###Conversation with **Sadale** and **shirafuno** that explains most of what happened at GGJ2017
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: every thing went almost perfectly,  me and beljaxander and another foreigner were made into the “international team”,  cause the other guy couldnt speak Japanese, and we got 4 more Japanese teammates</p>
 
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: it was a team of 7</p>
 
-**amigojapan**:**Sadale**: every thing went almost perfectly,  me and beljaxander and another foreigner were made into the “international team”,  cause the other guy couldnt speak Japanese, and we got 4 more Japanese teammates
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, nice :-)</p>
 
-**amigojapan**:**Sadale**: it was a team of 7
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, Everything is going ok-ish here. The deadline is very tight. Especially for the preparation of presentation</p>
 
-**Sadale**:**amigojapan**, nice :-)
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, wow. 7 is many :-)</p>
 
-**Sadale**:**amigojapan**, Everything is going ok-ish here. The deadline is very tight. Especially for the preparation of presentation
+<p><strong>amigojapan</strong>:<strong>shirafuno</strong>: <strong>Sadale</strong> : it was probably the 3 days I have had most fun in my life</p>
 
-**Sadale**:**amigojapan**, wow. 7 is many :-)
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, nice :-)</p>
 
-**amigojapan**:**shirafuno**: **Sadale** : it was probably the 3 days I have had most fun in my life
+<p><strong>amigojapan</strong>:<strong>shirafuno</strong>: it is true that you hardly sleep at all, and everyone stinks, and people dot eat well, and even they cant drink well, but it was deffenetly fun</p>
 
-**Sadale**:**amigojapan**, nice :-)
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I did not really do very much in the Jam, besides watch and tell other people what to do….  I only coded the explosion do the buildings, and the change of day according to time of day</p>
 
-**amigojapan**:**shirafuno**: it is true that you hardly sleep at all, and everyone stinks, and people dot eat well, and even they cant drink well, but it was deffenetly fun
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, ah. That's pretty much what a manager supposed to do :p</p>
 
-**amigojapan**:**Sadale**: I did not really do very much in the Jam, besides watch and tell other people what to do….  I only coded the explosion do the buildings, and the change of day according to time of day
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I am not ocmplaining, I really enjoyed it very much!</p>
 
-**Sadale**:**amigojapan**, ah. That's pretty much what a manager supposed to do :p
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: nice, I even let my team make the presentations, and upload the stuff and other things</p>
 
-**amigojapan**:**Sadale**: I am not ocmplaining, I really enjoyed it very much!
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, cool! :-)</p>
 
-**amigojapan**:**Sadale**: nice, I even let my team make the presentations, and upload the stuff and other things
+<p><strong>amigojapan</strong>::)</p>
 
-**Sadale**:**amigojapan**, cool! :-)
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: not exacly, but it comes a little close to my dream of “being able to program something by imagining it” :)</p>
 
-**amigojapan**::)
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, pfft xD</p>
 
-**amigojapan**:**Sadale**: not exacly, but it comes a little close to my dream of “being able to program something by imagining it” :)
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I got some business cards that may be useful, including 2 people that work at Sega</p>
 
-**Sadale**:**amigojapan**, pfft xD
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: and the creator of 三国志(Romance of the three kingdoms) game apparently was there to watch our interview of one of our presentations</p>
 
-**amigojapan**:**Sadale**: I got some business cards that may be useful, including 2 people that work at Sega
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I got the cards at the patry after the Jam</p>
 
-**amigojapan**:**Sadale**: and the creator of 三国志(Romance of the three kingdoms) game apparently was there to watch our interview of one of our presentations
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I heard that every Jam site eats pizza after the jam</p>
 
-**amigojapan**:**Sadale**: I got the cards at the patry after the Jam
+<p><strong>Sadale</strong>::D</p>
 
-**amigojapan**:**Sadale**: I heard that every Jam site eats pizza after the jam
+<p><strong>Sadale</strong>:maybe it is in Japan. I dunno.</p>
 
-**Sadale**::D
+<p><strong>Sadale</strong>:What I know is that every jam site varies :3</p>
 
-**Sadale**:maybe it is in Japan. I dunno.
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: one of the members of my team has gone to 5 jams in different countries… he told me about hte pizza, and it was in the video of “extrra credits”</p>
 
-**Sadale**:What I know is that every jam site varies :3
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, :o</p>
 
-**amigojapan**:**Sadale**: one of the members of my team has gone to 5 jams in different countries… he told me about hte pizza, and it was in the video of “extrra credits”
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: they also offered light snacks and candy and chocolate and coffee and drinks for free (payed by Unity)    That university is pretty country side…. we had to walk like 30 minutes to have lunch yesterday, it is hte only “meal” we ate</p>
 
-**Sadale**:**amigojapan**, :o
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, our site offers free meals :-)</p>
 
-**amigojapan**:**Sadale**: they also offered light snacks and candy and chocolate and coffee and drinks for free (payed by Unity)    That university is pretty country side…. we had to walk like 30 minutes to have lunch yesterday, it is hte only “meal” we ate
+<p><strong>Sadale</strong>:and free drinks</p>
 
-**Sadale**:**amigojapan**, our site offers free meals :-)
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: we got Unity brander cup noodle, I have the cover, wanna see a picture?</p>
 
-**Sadale**:and free drinks
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, :D</p>
 
-**amigojapan**:**Sadale**: we got Unity brander cup noodle, I have the cover, wanna see a picture?
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: ouch,    at our site,  basically you dont really eat, most people did not eat anything until teh pizza</p>
 
-**Sadale**:**amigojapan**, :D
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, wow. not eating anything for 48 hours? :O</p>
 
-**amigojapan**:**Sadale**: ouch,    at our site,  basically you dont really eat, most people did not eat anything until teh pizza
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: and almost nobody goes home either</p>
 
-**Sadale**:**amigojapan**, wow. not eating anything for 48 hours? :O
+<p><strong>Sadale</strong>:wow</p>
 
-**amigojapan**:**Sadale**: and almost nobody goes home either
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: home is far for most jamers</p>
 
-**Sadale**:wow
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, oh right.</p>
 
-**amigojapan**:**Sadale**: home is far for most jamers
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, Hong Kong is a small place after all.</p>
 
-**Sadale**:**amigojapan**, oh right.
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: we were so happy when we got Unity brand cup ramen,  also when we had lunch,  and also when we had pizza….</p>
 
-**Sadale**:**amigojapan**, Hong Kong is a small place after all.
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, wow. :O</p>
 
-**amigojapan**:**Sadale**: we were so happy when we got Unity brand cup ramen,  also when we had lunch,  and also when we had pizza….
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I thought there was some emergency when they put the pizza out, cause everybody was yelling…</p>
 
-**Sadale**:**amigojapan**, wow. :O
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, oh. I didn't realize that you said "unity brander cup noodles". I missed the word "noodles"</p>
 
-**amigojapan**:**Sadale**: I thought there was some emergency when they put the pizza out, cause everybody was yelling…
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: yes, Unity branded cup noodles</p>
 
-**Sadale**:**amigojapan**, oh. I didn't realize that you said "unity brander cup noodles". I missed the word "noodles"
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, cool! show me show me :D</p>
 
-**amigojapan**:**Sadale**: yes, Unity branded cup noodles
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I think you will laugh when you see hte kanji they used to spell “Unity” in kanji</p>
 
-**Sadale**:**amigojapan**, cool! show me show me :D
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, :o</p>
 
-**amigojapan**:**Sadale**: I think you will laugh when you see hte kanji they used to spell “Unity” in kanji
+<p><strong>amigojapan</strong><em>mobil:<strong>Sadale</strong>  https://usercontent.irccloud-cdn.com/file/kVilzfX8/IMG</em>1604.JPG</p>
 
-**Sadale**:**amigojapan**, :o
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: it says “unity ramen, salt flavour with no bugs” :)</p>
 
-**amigojapan**_mobil:**Sadale**  https://usercontent.irccloud-cdn.com/file/kVilzfX8/IMG_1604.JPG
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>_mobil, ah. cloud sphere temple :P</p>
 
-**amigojapan**:**Sadale**: it says “unity ramen, salt flavour with no bugs” :)
+<p><strong>Sadale</strong>:lol no bugs</p>
 
-**Sadale**:**amigojapan**_mobil, ah. cloud sphere temple :P
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, it seems that our jam site has less this kind of sponsors :p</p>
 
-**Sadale**:lol no bugs
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, we only have some flyers from sponsors.</p>
 
-**Sadale**:**amigojapan**, it seems that our jam site has less this kind of sponsors :p
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: sorry :(</p>
 
-**Sadale**:**amigojapan**, we only have some flyers from sponsors.
+<p><strong>Sadale</strong>:Oh BTW. The awards here are offered by the sponsors</p>
 
-**amigojapan**:**Sadale**: sorry :(
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: what awards?</p>
 
-**Sadale**:Oh BTW. The awards here are offered by the sponsors
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: I did not know they have awards</p>
 
-**amigojapan**:**Sadale**: what awards?
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, it depends on the jam site.</p>
 
-**amigojapan**:**Sadale**: I did not know they have awards
+<p><strong>amigojapan</strong>:I see <strong>Sadale</strong></p>
 
-**Sadale**:**amigojapan**, it depends on the jam site.
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, the Hong Kong jam site has award for well performing teams. They are offered and judged by the sponsors :P</p>
 
-**amigojapan**:I see **Sadale**
+<p><strong>amigojapan</strong>:I see <strong>Sadale</strong> , it happens on the jam day?</p>
 
-**Sadale**:**amigojapan**, the Hong Kong jam site has award for well performing teams. They are offered and judged by the sponsors :P
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, yes. The last day.</p>
 
-**amigojapan**:I see **Sadale** , it happens on the jam day?
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: in my site it does not happen, so each site has good and bad things</p>
 
-**Sadale**:**amigojapan**, yes. The last day.
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, I think not giving out award is a good thing. :)</p>
 
-**amigojapan**:**Sadale**: in my site it does not happen, so each site has good and bad things
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, it can give us a low pressure environment</p>
 
-**Sadale**:**amigojapan**, I think not giving out award is a good thing. :)
+<p><strong>amigojapan</strong>:BrambleG: we had the free stuff, but out site was so remote that that was all we had for the whole time and almost nobody could go home, so we did not really eat anything (except for lunch yesterday (we had to walk 20 minutes for it) and finally pizza</p>
 
-**Sadale**:**amigojapan**, it can give us a low pressure environment
+<p><strong>amigojapan</strong>: they have a sleeping room in my site</p>
 
-**amigojapan**:BrambleG: we had the free stuff, but out site was so remote that that was all we had for the whole time and almost nobody could go home, so we did not really eat anything (except for lunch yesterday (we had to walk 20 minutes for it) and finally pizza
+<p><strong>amigojapan</strong>: just air mattresses in a room</p>
 
-**amigojapan**: they have a sleeping room in my site
+<p><strong>amigojapan</strong>: but anyway, it was still probably one of the most funnest things I have ever done in my life</p>
 
-**amigojapan**: just air mattresses in a room
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: next year I will make some game using my other prorgamming langauge I am making now (the one that is like scratch)</p>
 
-**amigojapan**: but anyway, it was still probably one of the most funnest things I have ever done in my life
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, ah. good. :)</p>
 
-**amigojapan**:**Sadale**: next year I will make some game using my other prorgamming langauge I am making now (the one that is like scratch)
+<p><strong>amigojapan</strong>::)</p>
 
-**Sadale**:**amigojapan**, ah. good. :)
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, another chance to market your programming languages :P</p>
 
-**amigojapan**::)
+<p><strong>amigojapan</strong>:hehehe <strong>Sadale</strong> , yep</p>
 
-**Sadale**:**amigojapan**, another chance to market your programming languages :P
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: you know our GGJ had a 24 hour stream of a whole bunch of stuff, and they interviewd us many times in an interview room?</p>
 
-**amigojapan**:hehehe **Sadale** , yep
+<p><strong>Sadale</strong>:<strong>amigojapan</strong>, no :o</p>
 
-**amigojapan**:**Sadale**: you know our GGJ had a 24 hour stream of a whole bunch of stuff, and they interviewd us many times in an interview room?
+<p><strong>amigojapan</strong>:<strong>Sadale</strong>: you can probably spot me if you watch enough of it
+amigo japan: originally I said I wanted a robot to destroy tokyo,  but one of my teammates said in Japan robots are seen as freidns of humans, so we shoudl make a monster that destroys tokyo….  and somehow we ended up with shenron the dragon</p>
 
-**Sadale**:**amigojapan**, no :o
-
-**amigojapan**:**Sadale**: you can probably spot me if you watch enough of it
-amigo japan: originally I said I wanted a robot to destroy tokyo,  but one of my teammates said in Japan robots are seen as freidns of humans, so we shoudl make a monster that destroys tokyo….  and somehow we ended up with shenron the dragon
-
-
-
-
-and the conversation went on, and on…
+<p>and the conversation went on, and on…</p>
