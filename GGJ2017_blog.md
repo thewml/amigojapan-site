@@ -12,10 +12,11 @@ important links:
 
 [our game page](http://globalgamejam.org/2017/games/supersmashtokyo-%E3%80%80%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC)
 
+[GGJ Tokyo University of Technology youtube channel, where the stuff was live streamed](https://www.youtube.com/channel/UColRSRxkyyDdq2qwSles5Bw)
 
 [extra credits](https://youtu.be/ynljZUmJv2U?t=5m31s)
 
-[Sadal's blog post of his project in HK EM Wave Jammer](https://sadale.net/45/global-game-jam-2017---em-wave-jammer-release-announcement-and-post-mortem)
+[Sadale's blog post of his project in HK EM Wave Jammer](https://sadale.net/45/global-game-jam-2017---em-wave-jammer-release-announcement-and-post-mortem)
 
 ###Team members:
 
