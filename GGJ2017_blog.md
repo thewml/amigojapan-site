@@ -10,9 +10,9 @@ important links:
 
 [game screencast](https://www.youtube.com/watch?v=rUQFhK8-6M4)
 
-[final presentationjapanese日本語](https://www.youtube.com/watch?v=Zujey_8QR58&t=43m43s)
+[final presentation japanese日本語](https://www.youtube.com/watch?v=Zujey_8QR58&t=43m43s)
 
-[initial intervew japanese日本語](https://youtu.be/tPICutYjMm4?t=23m16s)
+[initial intervew japanese日本語](https://youtu.be/tPICutYjMm4?t=23m55s)
 
 [alpha release inteview japanese日本語](https://www.youtube.com/watch?v=O-tBQ3SXJNQ&t=41m40s)
 
