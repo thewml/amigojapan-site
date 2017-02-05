@@ -29,7 +29,7 @@
 
 [12.-play hard blockly games(the games that were too hard before may be easy now)](https://blockly-games.appspot.com/)
 
-[13.-then finally make the poop game to graduate from visual block programming.](https://scratch.mit.edu/projects/143512958/#editor)
+[13.-then finally make the poop game to graduate from visual block programming.](https://scratch.mit.edu/projects/143622313/#editor)
 
 
 Children private tutoring:
@@ -42,7 +42,7 @@ Teacher training program:
 group lesson at family restaurant: 6000Yen for up to 3 people(2000Yen per person if 3 people) for 2 to 3 hours plus my transportation fee. Each person pays for their own food or drinks, must order at least drink bar. each person must bring their own laptop
 Lesson in either English(if your level is high enough) or Japanese
 
-<a name=“Japanese”>
+<a id=“Japanese”>
 #ウスマーのコースのカリキュラム：
 
 [1.-lightbot（フラッシュバージョン）をプレイし、それを終了する必要はありません。学生が出来るだけやってください、指導命令の順番が重要性を教えます。）
@@ -73,7 +73,7 @@ Lesson in either English(if your level is high enough) or Japanese
 
 [12.-難しいグーグルブロックリーゲームをプレイする（難しいゲームは今は簡単かもしれません）](https://blockly-games.appspot.com/)
 
-[13.ウンチゲームを作る。最後のブロックプログラミングを卒業するためのゲームを作ります。（この授業が何日間もかかります）](https://scratch.mit.edu/projects/143512958/#editor)
+[13.ウンチゲームを作る。最後のブロックプログラミングを卒業するためのゲームを作ります。（この授業が何日間もかかります）](https://scratch.mit.edu/projects/143622313/#editor)
 
 
 
