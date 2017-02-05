@@ -14,7 +14,7 @@
 5.-make "game of touch all possible objects except bombs 2 player game"(this one is usually pretty easy
 (sample not available)
 
-[6.-make tron 2 player (Use Scratch to make any games）](https://scratch.mit.edu/projects/83219848/#editor)（サンプルは1人のプレイヤーのみ） (sample is one player only)
+[6.-make tron 2 player (Use Scratch to make any games）](https://scratch.mit.edu/projects/83219848/#editor) (sample is one player only)
 
 [7.-make space invaders](https://scratch.mit.edu/projects/80526748/#editor)
 
