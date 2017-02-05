@@ -1,4 +1,4 @@
-<a href="#Japanese">日本語</a>
+<a href=#Japanese>日本語</a>
 #My course kind of goes like this right now: 
 
 
@@ -42,7 +42,7 @@ Teacher training program:
 group lesson at family restaurant: 6000Yen for up to 3 people(2000Yen per person if 3 people) for 2 to 3 hours plus my transportation fee. Each person pays for their own food or drinks, must order at least drink bar. each person must bring their own laptop
 Lesson in either English(if your level is high enough) or Japanese
 
-<a id=“Japanese” name=“Japanese”>
+<a id=Japanese name=Japanese>
 #ウスマーのコースのカリキュラム：
 
 [1.-lightbot（フラッシュバージョン）をプレイし、それを終了する必要はありません。学生が出来るだけやってください、指導命令の順番が重要性を教えます。）
