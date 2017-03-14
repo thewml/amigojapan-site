@@ -22,6 +22,7 @@
 				<BR><li><a href="http://amigojapan.github.io/?q=The_pros_and_cons_of_quick_and_dirty_programming">Two kinds of programmers</a></li>
 				<BR><li><a href="http://amigojapan.github.io/Global_Game_Jam_2017_blog_post.html">Global Game Jam 2017</a></li>
 				<BR><li><a href="http://amigojapan.github.io/amigojapans_programming_curriculum.html">my programming curriculum</a></li>
+                <BR><li><a href="http://amigojapan.github.io/?q=Japanese_programming_technical_terms">Japanese programming technical terms</a></li>
 				<BR><li><a href="http://amigojapan.github.io/8_Code_Katastophies_that_help.html">8 Code Katastophies that help</a></li>
 					
             </ul>			
@@ -127,6 +128,7 @@ var crypto_ids="";
 var self_quotes="";
 var first_tenkaichibudoukai="";
 var schooling_story="";
+var Japanese_tech_terms="";
 function load() {
 	main+=' <div class="maincol">'         
 	main+='        	<h2>Introduction</h2>'
@@ -451,6 +453,19 @@ function load() {
 	schooling_story+='		<BR><BR>I am not bad at studying either, cause I have achieved besides learning programming, also learning other languages… I just need to be interested in what I study. Also I keep on studying new programming things even now...'
 	schooling_story+='		<BR><BR>I think regular schooling was not designed for people with a personality like mine.'
 
+
+    Japanese_tech_terms+='<div class="maincol">' 
+	Japanese_tech_terms+='		<h2>Technical terms you will need to know to become a programmer in Japan in a Japanese company where you can only speak Japanese</h2>'	
+	Japanese_tech_terms+='		<BR><BR>'
+	Japanese_tech_terms+='		<BR><BR>Kanji terms:'
+	Japanese_tech_terms+='		<BR><BR>関数(かんすう,kansuu) is function 変数(へんすう,hensuu) is variable 配列(配列,hairetsu) is array　文字の配列(もじのはいれつ,moji no haiteru) is string 番地(ばんち,banchi) is memory address 鯖(さば,saba) is a joke (there is a fish called saba) means server 演算手順(えんざんてじゅん,enzan tejun) is algorithm　乱数(らんすう,ransuu) is a random number.'
+	Japanese_tech_terms+='		<BR><BR>'
+	Japanese_tech_terms+='		<BR><BR>Katakana terms'
+	Japanese_tech_terms+='		<BR><BR>Most other terms will be in Katakana and they will be loanwords from english like パソコン (pasokon) short for パーソナル(paasonaru,personal) and コンピューター(conpyuutaa,computer) or just easy to understand words like マウス(mausu, mouse)'
+	Japanese_tech_terms+='		<BR><BR>'
+	Japanese_tech_terms+='		<BR><BR>Note, this is not an exahausive list, if you want me to add a term you know, or just want to ask me for some Katakana term, email me at usmpadow@gmail.com'
+
+
 	var q = getParameterByName("q");
 	if(q==""){
 		document.getElementById("maincol_container").innerHTML = "";
@@ -508,6 +523,10 @@ function load() {
 		document.getElementById("maincol_container").innerHTML = "";
 		document.getElementById('maincol_container').innerHTML =schooling_story;
 	}	
+    if(q=="Japanese_programming_technical_terms"){
+		document.getElementById("maincol_container").innerHTML = "";
+		document.getElementById('maincol_container').innerHTML =Japanese_tech_terms;
+	}
 	
 
 	/*
